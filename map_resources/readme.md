@@ -4,4 +4,4 @@
 
 [__Old Maps Online__](https://www.oldmapsonline.org/en/Kazakhstan#bbox=53.89949029999343,31.020167082234693,94.85949030001622,59.824669254609205&q=&date_from=0&date_to=9999&scale_from=&scale_to=)
 
-[__Aurel Stein Maps - Toyo Bunko](http://dsr.nii.ac.jp/digital-maps/stein/place-names/)
+[__Aurel Stein Maps - Toyo Bunko__](http://dsr.nii.ac.jp/digital-maps/stein/place-names/)
